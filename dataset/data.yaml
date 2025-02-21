@@ -1,4 +1,5 @@
 train: /content/drive/MyDrive/Projet Deep Learning/dataset/images/train  # path to training images
 val: /content/drive/MyDrive/Projet Deep Learning/dataset/images/val  # path to validation images
+test: /content/drive/MyDrive/Projet Deep Learning/dataset/images/test/
 nc: 3 # Nombre de classes
 names: ['voitures', 'camions', 'motos']  # Noms des classes
